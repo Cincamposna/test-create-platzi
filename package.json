@@ -1,0 +1,24 @@
+{
+  "name": "test-create-platzi",
+  "version": "1.0.0",
+  "description": "creacion de prueba random en Platzi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cincamposna/test-create-platzi.git"
+  },
+  "keywords": [],
+  "author": "Cindy Campos Navarro <cindycn91@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Cincamposna/test-create-platzi/issues"
+  },
+  "homepage": "https://github.com/Cincamposna/test-create-platzi#readme",
+  "bin": {
+    "test-create-platzi": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
